@@ -1,0 +1,7 @@
+C:\Users\trant\source\repos\Assignment03\Assignment03\bin\Debug\Assignment03.exe.config
+C:\Users\trant\source\repos\Assignment03\Assignment03\bin\Debug\Assignment03.exe
+C:\Users\trant\source\repos\Assignment03\Assignment03\bin\Debug\Assignment03.pdb
+C:\Users\trant\source\repos\Assignment03\Assignment03\obj\Debug\Assignment03.csprojAssemblyReference.cache
+C:\Users\trant\source\repos\Assignment03\Assignment03\obj\Debug\Assignment03.csproj.CoreCompileInputs.cache
+C:\Users\trant\source\repos\Assignment03\Assignment03\obj\Debug\Assignment03.exe
+C:\Users\trant\source\repos\Assignment03\Assignment03\obj\Debug\Assignment03.pdb
